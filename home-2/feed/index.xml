@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Home	</title>
-	<atom:link href="httpppns.com.np/home-2/feed/" rel="self" type="application/rss+xml" />
-	<link>httpppns.com.np</link>
+	<atom:link href="/home-2/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description></description>
 	<lastBuildDate>Sun, 23 Jul 2023 10:06:33 +0000</lastBuildDate>
 	<sy:updatePeriod>
