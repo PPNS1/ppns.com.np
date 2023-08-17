@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: Home	</title>
-	<atom:link href="https://ppns.com.np/home-2/feed/" rel="self" type="application/rss+xml" />
-	<link>https://ppns.com.np</link>
+	<atom:link href="https://localhost/pratik_site/home-2/feed/" rel="self" type="application/rss+xml" />
+	<link>https://localhost/pratik_site</link>
 	<description></description>
-	<lastBuildDate>Sun, 23 Jul 2023 15:52:01 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 17 Aug 2023 03:50:17 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<generator>https://wordpress.org/?v=6.3</generator>
 </channel>
 </rss>
